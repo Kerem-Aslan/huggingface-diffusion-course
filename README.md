@@ -1,0 +1,2 @@
+# huggingface-diffusion-course
+
