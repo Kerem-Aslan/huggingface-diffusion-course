@@ -188,3 +188,4 @@ __pycache__/
 *.bin
 *.safetensors
 .cursor/rules/*
+/Unit2/mnist
