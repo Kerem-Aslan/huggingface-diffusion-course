@@ -189,3 +189,5 @@ __pycache__/
 *.safetensors
 .cursor/rules/*
 /Unit2/mnist
+output.png
+/Unit1/MNIST
